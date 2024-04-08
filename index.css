@@ -148,7 +148,7 @@
 }
 
 .card{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(153, 141, 141);
     min-height: 400px;
     width: 300px;
     padding: 20px;
@@ -183,6 +183,9 @@
     color:chartreuse;
     font-family:cursive;
     margin: 5px;
+    font-style: oblique;
+    font-size: 20px;
+    font-weight:lighter;
     text-decoration-line:line-through;
     text-decoration-color: whitesmoke;
     text-decoration-thickness: 2.5px;
